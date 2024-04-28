@@ -74,5 +74,8 @@
 	"stylelint": {
 		"extends": "@samuelmeuli/stylelint-config"
 	},
-	"prettier": "@samuelmeuli/prettier-config"
+	"prettier": "@samuelmeuli/prettier-config",
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com"
+	}
 }
